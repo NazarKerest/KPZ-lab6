@@ -1,2 +1,2 @@
-Average points per round: 7,285714285714286
-Number of busts: 2
+Average points per round: 6
+Number of busts: 1
